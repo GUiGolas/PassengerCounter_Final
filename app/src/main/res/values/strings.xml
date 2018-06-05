@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassengerCounter_Final</string>
+    <string name="sinal"> - </string>
+    <string name="txt_origem"> Origem </string>
+    <string name="txt_destino"> Destino </string>
+    <string name="txt_cor"> Cor </string>
+    <string name="btnContagemText"> CONTAGEM </string>
+</resources>
